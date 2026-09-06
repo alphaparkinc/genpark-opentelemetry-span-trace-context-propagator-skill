@@ -1,0 +1,16 @@
+{
+  "name": "genpark-opentelemetry-span-trace-context-propagator-skill",
+  "version": "1.0.0",
+  "description": "W3C tracecontext and baggage propagator, distributed agent span tree, and parent-child latency instrumentation.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "opentelemetry",
+    "traceparent",
+    "baggage",
+    "distributed-tracing",
+    "observability",
+    "genpark",
+    "mcp"
+  ]
+}
